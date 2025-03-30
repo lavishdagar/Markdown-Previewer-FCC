@@ -1,0 +1,1 @@
+print(" andi mandi sandi jo na nacgha woh bkl ")
